@@ -18,11 +18,7 @@
 />
 <img height="160em" src="https://github-readme-stats.vercel.app/api?username=luizhen1_icons=true" />
 </picture>
-</div>
-
-
-<div>
-<picture>
+  <picture>
 <source 
 srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=luizhen1&layout=compact&theme=dark" />
   
@@ -31,10 +27,9 @@ srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=luizhen1&
   srcset="https://github-readme-stats.vercel.app/api?username=luizhen1&show_icons=true"
   media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
 />
-<img height="130em" src="https://github-readme-stats.vercel.app/api?username=luizhen1&show_icons=true" />
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=luizhen1&show_icons=true" />
 </picture>
 </div>
-
 
 
 <div style="display: inline_block"><br>
