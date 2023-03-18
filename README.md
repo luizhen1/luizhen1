@@ -1,6 +1,6 @@
 ### Olá, eu sou o Luiz Henrique
 
-- 📚 Back-end developer.
+- 📚 Estudante de Back-end.
 - 📫 Entre em contato pelo e-mail: oluizhen1@gmail.com
 
 
