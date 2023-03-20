@@ -3,14 +3,11 @@
 - 📚 Estudante de Back-end.
 - 📫 Entre em contato pelo e-mail: oluizhen1@gmail.com
 
-
-
-
-<div> 
-<picture>
-<source 
-  srcset="https://github-readme-stats.vercel.app/api?username=luizhen1&show_icons=true&theme=dark"
-  media="(prefers-color-scheme: dark)"
+<div align="center">
+  <a href="https://github.com/Pauloricardo2019">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Pauloricardo2019&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pauloricardo2019&layout=compact&langs_count=7&theme=dark"/>
+</div>
 />
 <source
   srcset="https://github-readme-stats.vercel.app/api?username=luizhen1&show_icons=true"
