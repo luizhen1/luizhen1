@@ -38,4 +38,11 @@ srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=luizhen1&
     src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
 </div>
 
+<div> 
+  
+  <a href="https://www.instagram.com/luiz.hein1/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/luiz-henrique-lima-83bbb3210/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
+</div>
+
 ![snake gif](https://github.com/luizhen1/luizhen1/blob/output/github-contribution-grid-snake.svg)
