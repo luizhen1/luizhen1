@@ -37,3 +37,5 @@ srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=luizhen1&
     <img align="center" alt="luiz-Node" height="40" width="50" ]
     src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
 </div>
+
+![snake gif](https://github.com/luizhen1/luizhen1/blob/output/github-contribution-grid-snake.svg)
