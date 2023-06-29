@@ -1,6 +1,6 @@
 ### Olá, eu sou o Luiz Henrique
 
-- 📚 Estudante de Programação.
+- 📚 Desenvolvedor Front-End.
 - 📫 Entre em contato pelo e-mail: oluizhen1@gmail.com
 
 <div align="center">
