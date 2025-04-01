@@ -1,6 +1,6 @@
 ### Olá, eu sou o Luiz Henrique
 
-- 📚 Desenvolvedor NodeJS e Golang.
+- 📚 Desenvolvedor Web Fullstack.
 - 📫 Entre em contato pelo e-mail: oluizhen1@gmail.com
 
 <div align="center">
