@@ -1,16 +1,16 @@
 <div align="left">
 
-# Hello World! My name is Luiz Henrique! 👋
+# Olá Mundo! Eu sou Luiz Henrique 👋
 
 ### Backend Developer | Golang | Distributed Systems
 
-<img align="right" width="360" src="https://raw.githubusercontent.com/luizhen1/luizhen1/main/assets/computer-illustration.png" />
+<img align="right" width="360" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" />
 
-I'm a developer focused on backend engineering, scalable systems and distributed architectures.
+Sou um desenvolvedor com foco em engenharia de backend, sistemas escaláveis ​​e arquiteturas distribuídas.
 
-Currently studying and building projects with **Golang**, **Kafka**, **Redis**, **Docker**, **PostgreSQL**, **MySQL** and **Cloud Computing**.
+Atualmente estou desenvolvendo projetos com **Golang**, **Kafka**, **Redis**, **Docker**, **PostgreSQL**, **MySQL** e **Computação em Nuvem**.
 
-My goal is to build high-performance APIs, asynchronous systems and reliable backend applications.
+Meu objetivo é construir APIs de alto desempenho, sistemas assíncronos e aplicações de backend confiáveis.
 
 <br>
 
@@ -37,51 +37,41 @@ My goal is to build high-performance APIs, asynchronous systems and reliable bac
 
 <br>
 
-## 🚀 Currently focused on:
+## 🚀 Atualmente, estou focado em:
 
-- Backend development with Golang
-- REST APIs and microservices
-- Distributed systems
-- Messaging with Apache Kafka
-- Caching with Redis
-- Docker and DevOps fundamentals
-- System Design for backend interviews
+- Desenvolvimento de backend com Golang
+- APIs REST e microsserviços
+- Sistemas distribuídos
+- Mensageria com Apache Kafka
+- Cache com Redis
+- Fundamentos de Docker e DevOps
+- System Design para arquiteturas escaláveis
 
 <br>
 
-## 📌 Featured Projects
+## 📌 Projetos em destaque
 
-### 📨 Async PIX Settlement API
+### 📨 API de liquidação PIX assíncrona
 
-A Go backend project that simulates an asynchronous financial transfer flow using Kafka, database persistence and idempotency control.
+Um projeto backend em Go que simula um fluxo de transferência financeira assíncrona usando Kafka, persistência de banco de dados e controle de idempotência.
 
 **Stack:** Go, Kafka, PostgreSQL, Docker
 
-### 🛒 Distributed Order System
+### 🛒 Sistema de pedidos distribuídos
 
-A backend system focused on performance, cache, messaging and scalable architecture.
+Um sistema de backend focado em desempenho, cache, mensagens e arquitetura escalável.
 
 **Stack:** NestJS, Redis, Kafka, PostgreSQL, Docker
 
-### 📁 Asset Management System
+### 📁 Sistema de gerenciamento de ativos
 
-A file management module with secure upload, metadata persistence and scalable storage strategy.
+Um módulo de gerenciamento de arquivos com upload seguro, persistência de metadados e estratégia de armazenamento escalável.
 
 **Stack:** Next.js, Node.js, S3, MySQL
 
 <br>
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=luizhen1&show_icons=true&theme=tokyonight&hide_border=true" />
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizhen1&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
-
-<br>
+## 📈 Atividade no GitHub
 
 <div align="center">
 
@@ -91,7 +81,9 @@ A file management module with secure upload, metadata persistence and scalable s
 
 <br>
 
-## 📫 Contact me:
+<br>
+
+## 📫 Contate-me:
 
 <a href="mailto:oluizhen1@gmail.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
@@ -110,7 +102,7 @@ A file management module with secure upload, metadata persistence and scalable s
 
 <div align="center">
 
-### ⚡ Building scalable backend systems with Go
+### ⚡ Construindo sistemas de backend escaláveis ​​com Go
 
 </div>
 
