@@ -71,18 +71,6 @@ Um módulo de gerenciamento de arquivos com upload seguro, persistência de meta
 
 <br>
 
-## 📈 Atividade no GitHub
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=luizhen1&theme=tokyo-night&hide_border=true" />
-
-</div>
-
-<br>
-
-<br>
-
 ## 📫 Contate-me:
 
 <a href="mailto:oluizhen1@gmail.com">
