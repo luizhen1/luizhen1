@@ -37,41 +37,7 @@ Meu objetivo é construir APIs de alto desempenho, sistemas assíncronos e aplic
 
 <br>
 
-## 🚀 Atualmente, estou focado em:
-
-- Desenvolvimento de backend com Golang
-- APIs REST e microsserviços
-- Sistemas distribuídos
-- Mensageria com Apache Kafka
-- Cache com Redis
-- Fundamentos de Docker e DevOps
-- System Design para arquiteturas escaláveis
-
-<br>
-
-## 📌 Projetos em destaque
-
-### 📨 API de liquidação PIX assíncrona
-
-Um projeto backend em Go que simula um fluxo de transferência financeira assíncrona usando Kafka, persistência de banco de dados e controle de idempotência.
-
-**Stack:** Go, Kafka, PostgreSQL, Docker
-
-### 🛒 Sistema de pedidos distribuídos
-
-Um sistema de backend focado em desempenho, cache, mensagens e arquitetura escalável.
-
-**Stack:** NestJS, Redis, Kafka, PostgreSQL, Docker
-
-### 📁 Sistema de gerenciamento de ativos
-
-Um módulo de gerenciamento de arquivos com upload seguro, persistência de metadados e estratégia de armazenamento escalável.
-
-**Stack:** Next.js, Node.js, S3, MySQL
-
-<br>
-
-## 📫 Contate-me:
+## 📫 💌 Sinta-se a vontade para entrar em contato: ⤵️
 
 <a href="mailto:oluizhen1@gmail.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
