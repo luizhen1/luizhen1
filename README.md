@@ -2,9 +2,9 @@
 
 # Olá Mundo! Eu sou Luiz Henrique 👋
 
-### Backend Developer | Golang | Distributed Systems
-
 <img align="right" width="360" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" />
+
+### Backend Developer | Golang | Distributed Systems
 
 Sou um desenvolvedor com foco em engenharia de backend, sistemas escaláveis ​​e arquiteturas distribuídas.
 
